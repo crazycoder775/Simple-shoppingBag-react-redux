@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bread",
+    "cost": 10,
+    "calories": 100,
+    "weight": 200
+  },
+  {
+    "id": 2,
+    "name": "Cheese",
+    "cost": 20,
+    "calories": 100,
+    "weight": 200
+  },
+  {
+    "id": 3,
+    "name": "Soda",
+    "cost": 10,
+    "calories": 100,
+    "weight": 200
+  },
+  {
+    "id": 4,
+    "name": "Butter",
+    "cost": 25,
+    "calories": 500,
+    "weight": 100
+  }
+]
