@@ -23,7 +23,7 @@ class Grocery extends Component{
 
 function mapStateToProps(state){
   return{
-    grocery : state
+    grocery : state.grocery
   }
 }
 
